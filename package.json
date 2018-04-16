@@ -1,0 +1,10 @@
+{
+  "name": "redirect",
+  "version": "1.0.0",
+  "description": "Simple docker (and thus kubernetes) deployable redirect app ",
+  "main": "server.js",
+  "repository": "git@github.com:hongymagic/redirect.git",
+  "author": "hongymagic <hongymagic+github@me.com>",
+  "license": "GPL-3.0-or-later",
+  "private": false
+}
