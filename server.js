@@ -1,6 +1,6 @@
 const { format, parse } = require('url');
 const { createServer } = require('http');
-const invariant = require('assert').strict.ok;
+const invariant = require('assert').ok;
 
 invariant(process.env.REDIRECT_URL, 'REDIRECT_URL environment variable is missing');
 invariant(process.env.REDIRECT_URL.search(/[\?=]/) === -1, 'REDIRECT_URL cannot contain any querystring or fragments');
