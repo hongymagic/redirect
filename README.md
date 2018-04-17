@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/hongymagic/redirect.svg?branch=master)](https://travis-ci.org/hongymagic/redirect)
+
 HTTP 301 and 302 redirects made easy. Deploy it manually, via now.sh, via
 docker, via kubernetes or however you like it.
 
