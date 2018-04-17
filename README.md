@@ -20,6 +20,12 @@ REDIRECT_URL=https://hon.gy PORT=3000 node server.js
 ==> Serving on 3000 redirecting to https://hon.gy/ with 301
 ```
 
+#### Running on Zeit Now
+
+```
+now -e REDIRECT_URL=https://hon.gy/ hongymagic/redirect
+```
+
 #### Running via docker
 
 ```
