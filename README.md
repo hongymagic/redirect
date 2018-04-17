@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/hongymagic/redirect.svg?branch=master)](https://travis-ci.org/hongymagic/redirect)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/658b5faa93d644b99e854e54052886d3)](https://www.codacy.com/app/hongymagic-github/redirect?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hongymagic/redirect&amp;utm_campaign=Badge_Grade)
 
 HTTP 301 and 302 redirects made easy. Deploy it manually, via now.sh, via
 docker, via kubernetes or however you like it.
